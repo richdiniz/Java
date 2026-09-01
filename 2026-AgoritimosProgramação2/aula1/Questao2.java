@@ -24,7 +24,7 @@ public class Questao2 {
 		Scanner scanner= new Scanner(System.in);
 		
 		System.out.println("Questão2:");
-		for(int i=0; i<10; i++) {
+		for(int i=0; i<10; i++){
 			System.out.println("#Aluno: "+(i+1));
 			alunos[i]=new Aluno();
 			
