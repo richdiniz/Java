@@ -1,5 +1,5 @@
 /*
-PREENCHENDO O ARRAY COM VALORES PRÉ-DEFINIDOS.
+ARRAY JÁ PREENCHIDO COM VALORES PRÉ-DEFINIDOS.
 */
 public class ativ3 {
     public static void main(String[] args) {
